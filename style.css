@@ -1,0 +1,23 @@
+body{
+    background: rgb(241, 185, 0);
+    font-family: 'Montserrat', sans-serif;
+}
+.mash{
+    width: 30%;
+    display: block;
+    margin: auto;
+    border-radius: 70%;
+}
+h1{
+    text-align: center;
+}
+img{
+    width: 100%;
+    border-radius: 100%;
+}
+table{
+    background: rgb(255, 171, 111);
+}
+.head{
+    background: darkgoldenrod;
+}
